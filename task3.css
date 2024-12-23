@@ -8,11 +8,14 @@
     position: absolute;
     top: 40%;
     left: 50%;
-    width: 50vw;
-    height: 60vh;
+    width: 55vw;
+    height: 70vh;
     transform: translate(-50%, -50%);
     background-color: black;
     padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .grid-container {
