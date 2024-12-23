@@ -82,3 +82,10 @@
 .container-12 {
     background-color: rgb(198, 19, 19);
 }
+
+@media screen and (max-width : 700px) {
+    .container-3 {
+        font-size: medium;
+        text-align: center;
+    }
+}
